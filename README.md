@@ -13,7 +13,7 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 
 Haz clic en el siguiente botón:
 
-[![[Open In Colab](https://colab.research.google.com/drive/12r54_CWylbq4yJLJxoEWbdJI2PGUhGks?usp=sharing)](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB) https://colab.research.google.com/drive/12r54_CWylbq4yJLJxoEWbdJI2PGUhGks?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
 
 O:
 
@@ -29,6 +29,9 @@ O:
 ## 🧠 Objetivo del análisis
 
 - Identificar problemas de calidad de datos
+- Construir un pipeline de limpieza reproducible
+- Analizar comportamientos, distribuciones y outliers
+- Generar insights para el equipo de Estrategia e Integración de EverPeak
 - Construir un pipeline de limpieza reproducible
 - Analizar comportamientos, distribuciones y outliers
 - Generar insights para el equipo de Estrategia e Integración de EverPeak
